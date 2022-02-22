@@ -1,0 +1,12 @@
+/home/dev/Documents/max_project/mrgnd-perpetuals/target/debug/deps/const_oid-39df5a5497e7abfb.rmeta: /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/lib.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/macros.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/arcs.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/encoder.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/error.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/parser.rs
+
+/home/dev/Documents/max_project/mrgnd-perpetuals/target/debug/deps/libconst_oid-39df5a5497e7abfb.rlib: /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/lib.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/macros.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/arcs.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/encoder.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/error.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/parser.rs
+
+/home/dev/Documents/max_project/mrgnd-perpetuals/target/debug/deps/const_oid-39df5a5497e7abfb.d: /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/lib.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/macros.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/arcs.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/encoder.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/error.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/parser.rs
+
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/lib.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/macros.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/arcs.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/encoder.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/error.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.6.2/src/parser.rs:

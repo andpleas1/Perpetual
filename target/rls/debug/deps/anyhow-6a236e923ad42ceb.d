@@ -1,0 +1,15 @@
+/home/dev/Documents/max_project/mrgnd-perpetuals/target/rls/debug/deps/anyhow-6a236e923ad42ceb.rmeta: /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/lib.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/backtrace.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/chain.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/context.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ensure.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/error.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/fmt.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/kind.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/macros.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ptr.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/wrapper.rs
+
+/home/dev/Documents/max_project/mrgnd-perpetuals/target/rls/debug/deps/anyhow-6a236e923ad42ceb.d: /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/lib.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/backtrace.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/chain.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/context.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ensure.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/error.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/fmt.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/kind.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/macros.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ptr.rs /home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/wrapper.rs
+
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/lib.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/backtrace.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/chain.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/context.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ensure.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/error.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/fmt.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/kind.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/macros.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/ptr.rs:
+/home/dev/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.53/src/wrapper.rs:

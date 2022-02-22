@@ -74,18 +74,14 @@ cargo build
     - [ ] Query
 - [ ] [Oracle](https://github.com/terra-money/tefi-oracle-contracts)
   - [ ] PriceFeed contract that integrates against TeFi hub
-  - [x] Wrapper for TeFi oracles which do calcs listed below
-  - [x] TWAP
+  - [ ] Wrapper for TeFi oracles which do calcs listed below
+  - [ ] TWAP
   - [ ] ???
 - [ ] Decimal Library
   - General decimal calculation library for use around with my fixed point decimals
 - [ ] Factory
 - [ ] Governance
 - [ ] General
-  - [ ] Testing framework improvements
-    - Wrapper for smart contract functions
-    - Setup files
-    - Better organisation
   - [ ] Code comment documentation
   - [x] Code Coverage - cargo-tarpaulin   
   - [x] Code linting
@@ -95,5 +91,3 @@ cargo build
 * [Perpetual Protocol](https://docs.perp.fi/getting-started/how-it-works/trading)
 * [Audaces Protocol](https://docs.bonfida.org/collection/v/help/audaces-perpetuals/white-paper)
 * [Perpetuals In-Depth](https://0xkowloon.substack.com/p/dissecting-the-perpetual-protocol)
-* [Dawn of Decentralised Derivative](https://members.delphidigital.io/reports/the-dawn-of-decentralized-derivatives/)
-# Perpetual
